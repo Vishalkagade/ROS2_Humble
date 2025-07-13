@@ -1,0 +1,30 @@
+[0.656s] Invoking command in '/home/vishal/ros2_ws/src/my_robot_controller': PYTHONPATH=/home/vishal/ros2_ws/build/my_robot_controller/prefix_override:/home/vishal/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/vishal/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/vishal/ros2_ws/build/my_robot_controller/build install --record /home/vishal/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
+[0.782s] /home/vishal/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:270: UserWarning: Unknown distribution option: 'tests_require'
+[0.783s]   warnings.warn(msg)
+[0.853s] running egg_info
+[0.865s] creating ../../build/my_robot_controller/my_robot_controller.egg-info
+[0.865s] writing ../../build/my_robot_controller/my_robot_controller.egg-info/PKG-INFO
+[0.866s] writing dependency_links to ../../build/my_robot_controller/my_robot_controller.egg-info/dependency_links.txt
+[0.866s] writing requirements to ../../build/my_robot_controller/my_robot_controller.egg-info/requires.txt
+[0.866s] writing top-level names to ../../build/my_robot_controller/my_robot_controller.egg-info/top_level.txt
+[0.866s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.891s] reading manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.891s] writing manifest file '../../build/my_robot_controller/my_robot_controller.egg-info/SOURCES.txt'
+[0.891s] running build
+[0.892s] running build_py
+[0.892s] creating /home/vishal/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.892s] copying my_robot_controller/__init__.py -> /home/vishal/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller
+[0.892s] running install
+[0.896s] running install_lib
+[0.908s] creating /home/vishal/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.908s] copying /home/vishal/ros2_ws/build/my_robot_controller/build/lib/my_robot_controller/__init__.py -> /home/vishal/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller
+[0.908s] byte-compiling /home/vishal/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller/__init__.py to __init__.cpython-310.pyc
+[0.908s] running install_data
+[0.909s] creating /home/vishal/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.909s] copying resource/my_robot_controller -> /home/vishal/ros2_ws/install/my_robot_controller/share/ament_index/resource_index/packages
+[0.909s] copying package.xml -> /home/vishal/ros2_ws/install/my_robot_controller/share/my_robot_controller
+[0.909s] running install_egg_info
+[0.922s] Copying ../../build/my_robot_controller/my_robot_controller.egg-info to /home/vishal/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages/my_robot_controller-0.0.0-py3.10.egg-info
+[0.923s] running install_scripts
+[1.025s] writing list of installed files to '/home/vishal/ros2_ws/build/my_robot_controller/install.log'
+[1.048s] Invoked command in '/home/vishal/ros2_ws/src/my_robot_controller' returned '0': PYTHONPATH=/home/vishal/ros2_ws/build/my_robot_controller/prefix_override:/home/vishal/.local/lib/python3.10/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/vishal/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_robot_controller build --build-base /home/vishal/ros2_ws/build/my_robot_controller/build install --record /home/vishal/ros2_ws/build/my_robot_controller/install.log --single-version-externally-managed install_data
